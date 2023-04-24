@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+   <a href="https://discord.com/users/234728680209776640">
+      <img src="https://lanyard.cnrad.dev/api/234728680209776640?theme=dark&animated=true" />
+   </a>
+</p>
+
 <!--
 **Eiks-exe/Eiks-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
