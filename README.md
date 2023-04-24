@@ -1,3 +1,4 @@
+<img src="https://tenor.com/view/django-leonardo-dicaprio-yes-nodding-yeah-gif-15456685"/>
 <p align="center">
    <a href="https://discord.com/users/234728680209776640">
       <img src="https://lanyard.cnrad.dev/api/234728680209776640?theme=dark&animated=true" />
