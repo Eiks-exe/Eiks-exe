@@ -1,8 +1,7 @@
-<p align="center" style="text-align: center;">
+<p align="center">
     <img src="https://github.com/Eiks-exe/Eiks-exe/blob/main/leonardo-dicaprio.gif" />
-    <h3>oh hi there<h3/>
 </p>
-
+<h3 align="center">oh hi there<h3/>
 <p align="center">
    <a href="https://discord.com/users/234728680209776640">
       <img src="https://lanyard.cnrad.dev/api/234728680209776640?theme=dark&animated=true" />
