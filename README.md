@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
    <a href="https://discord.com/users/234728680209776640">
       <img src="https://lanyard.cnrad.dev/api/234728680209776640?theme=dark&animated=true" />
