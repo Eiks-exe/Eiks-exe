@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">My skills</h3>
-<a href="">
+<a href="" align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,javascript,typescript,python,php,react,angular,vue,git"/>
 </a>
 <!--
