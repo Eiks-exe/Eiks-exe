@@ -8,7 +8,7 @@
    </a>
 </p>
 ## My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,typescript,python,php,react,angular,vue,git)](https://skillicons.dev)
+[(https://skillicons.dev/icons?i=js,html,css,javascript,typescript,python,php,react,angular,vue,git)](https://skillicons.dev)
 <!--
 **Eiks-exe/Eiks-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
