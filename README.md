@@ -7,7 +7,8 @@
       <img src="https://lanyard.cnrad.dev/api/234728680209776640?theme=dark&animated=true" />
    </a>
 </p>
-## My Skills:
+
+<h3 align="center">My skills</h3>
 <a href="">
     <img src="https://skillicons.dev/icons?i=js,html,css,javascript,typescript,python,php,react,angular,vue,git"/>
 </a>
