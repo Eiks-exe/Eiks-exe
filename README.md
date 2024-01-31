@@ -16,10 +16,10 @@
 </div>
 ## github achievements
 <p align="center">
-<a href="https://github.com/syipmong/">
+<a href="https://github.com/Eiks-exe/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eiks-exe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/>
 </a>
-  <a href="https://github.com/syipmong/">
+  <a href="https://github.com/Eiks-exe/">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eiks-exe&theme=jolly&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
 </a>
  <a href="https://github.com/Eiks-exe">
