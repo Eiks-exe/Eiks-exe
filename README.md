@@ -1,14 +1,16 @@
 # Andy Morellon
 ## full stack developper
-I build tools and systems to answer my own questions and solve problems I care about.
-checkout [my portfolio](https://eiks-exe.github.io/)
+    I build tools and systems to answer my own questions and solve problems I care about.
+    checkout [my portfolio](https://eiks-exe.github.io/)
+    take a look at my pinned project too! 🙂
+
 <h3 align="center">My Backpack</h3>
 <div align="center">
     <a href="" >
         <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,php,cs,react,angular,vue,laravel,git,docker,firebase"/>
     </a> 
 </div>
-take a look at my pinned project too! 🙂
+
 <!--
 **Eiks-exe/Eiks-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
