@@ -1,8 +1,8 @@
 # Andy Morellon
 ## full stack developper
-    I build tools and systems to answer my own questions and solve problems I care about.
-    checkout [my portfolio](https://eiks-exe.github.io/)
-    take a look at my pinned project too! 🙂
+I build tools and systems to answer my own questions and solve problems I care about.
+checkout [my portfolio](https://eiks-exe.github.io/)
+take a look at my pinned project too! 🙂
 
 <h3 align="center">My Backpack</h3>
 <div align="center">
