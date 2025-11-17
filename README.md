@@ -1,13 +1,28 @@
 # Andy Morellon
 ## full stack developper
 I build tools and systems to answer my own questions and solve problems I care about.
-checkout [my portfolio](https://eiks-exe.github.io/)
-take a look at my pinned project too! 🙂
+
+Checkout [my portfolio](https://eiks-exe.github.io/).
+
+Take a look at my pinned project as well! 🙂
+
 
 <h3 align="center">My Backpack</h3>
 <div align="center">
     <a href="" >
-        <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,php,cs,react,angular,vue,laravel,git,docker,firebase"/>
+        <img align="center" src="https://skillicons.dev/icons?i=typescript,nodejs,git"/>
+    </a> 
+    <br/>
+    <a href="" >
+        <img align="center" src="https://skillicons.dev/icons?i=react,express,mongodb"/>
+    </a> 
+    <br/>
+    <a href="" >
+        <img align="center" src="https://skillicons.dev/icons?i=nextjs,laravel,mysql"/>
+    </a> 
+    <br/>
+    <a href="" >
+        <img align="center" src="https://skillicons.dev/icons?i=cs,python,bash"/>
     </a> 
 </div>
 
